@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chourasiaankit
-- 👀 I’m interested in ...learning and exploring
+- 👋 Hi, I’m ankit @chourasiaankit
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...pyhton
 - 💞️ I’m looking to collaborate on ...makerspace projects
 - 📫 How to reach me ...ankeetcg@gmail.com
